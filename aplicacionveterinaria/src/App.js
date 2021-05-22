@@ -99,7 +99,7 @@ class App extends React.Component {
         <Container>
           <h1 className="title">Vet.cop</h1>
         <br />
-          <Button color="success" onClick={()=>this.mostrarModalInsertar()}>Crear</Button>
+          <Button color="success" onClick={()=>this.mostrarModalInsertar()}>Insertar Nueva Mascota</Button>
           <br />
           <br />
           <Table>
